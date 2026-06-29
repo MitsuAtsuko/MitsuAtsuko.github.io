@@ -300,7 +300,7 @@ h1 {
     backdrop-filter: blur(6px);
     padding: 25px;
     border-radius: 20px;
-    border: 2px solid rgba(255,107,157,0.35);
+    border: 2px solid rgba(80, 44, 148, 1);
     box-shadow: 0 8px 26px rgba(199,125,255,0.16);
     transition: all 0.3s ease;
     cursor: pointer;
